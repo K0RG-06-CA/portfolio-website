@@ -1,0 +1,4 @@
+.claude/
+task_plan.md
+__pycache__/
+.pytest_cache/
